@@ -1,3 +1,5 @@
+# GoChat
+# Enhanced Real-Time Communication Platform
 # Smart Real-Time Chat App 
 
 ## Overview
