@@ -1,6 +1,6 @@
 # GoChat  
 # Enhanced Real-Time Communication Platform
-# Smart Real-Time Chat App 
+# Smart Real-Time Chat App  
 
 ## Overview
 Smart Real-Time Chat App is a high-performance, scalable chat application built using a modern technology stack. It is designed to provide a personalized chat experience, enabling real-time communication across the web.
