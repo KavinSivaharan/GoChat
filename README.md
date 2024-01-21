@@ -1,14 +1,24 @@
-# Minimal nginx reverse proxy demo
+# Smart Real-Time Chat App
 
-This repository contains a `docker-compose` orchestrated application with Flask and Vue services running behind an nginx reverse proxy.
+## Overview
+Smart Real-Time Chat App is a high-performance, scalable chat application built using a modern technology stack. It is designed to provide a personalized chat experience, enabling real-time communication across the web.
 
-## Running
+## Technologies Used
+- **Go**: Backend programming language
+- **Docker**: Containerization platform
+- **Python**: Scripting and automation
+- **Flask**: Web framework for building APIs
+- **NGINX**: HTTP server and reverse proxy
+- **Angular.JS**: Frontend framework
+- **WebSockets**: Enabling real-time bidirectional communication channels
 
-To build the containers:
-`docker-compose build`
+## Features
+- Personalized real-time chatting experience
+- Client application built with Angular.JS for a responsive UI
+- NGINX reverse proxy for improved performance and caching API requests
+- Docker Swarm for orchestrating and managing containerized applications
 
-To run the containers:
-`docker-compose up`
+## Getting Started
+To get started with the Smart Real-Time Chat App, ensure you have Docker and Go installed on your machine.
 
-## Oversimplified Diagram
-<img src="reverse proxy.png"/>
+
